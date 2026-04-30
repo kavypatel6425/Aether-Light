@@ -1,0 +1,728 @@
+{
+  "user": [
+    {
+      "name": "Kavy Patel",
+      "password": "kavy@1304",
+      "email": "kavypatel6425@gmail.com",
+      "id": "1",
+      "role": "1"
+    },
+    {
+      "name": "Het Patel",
+      "password": "het@1234",
+      "email": "het@gmail.com",
+      "id": "2",
+      "role": "2"
+    },
+    {
+      "name": "Hiya",
+      "password": "hiya@2525",
+      "email": "hiya@gmail.com",
+      "id": "3",
+      "role": "2"
+    },
+    {
+      "name": "Harsh Prajapati",
+      "password": "harsh@1234",
+      "email": "harsh@gmail.com",
+      "role": "2",
+      "id": "4"
+    },
+    {
+      "name": "Dhruv Prajapati",
+      "password": "dhruve@1234",
+      "email": "dhruv@gmail.com",
+      "role": "2",
+      "id": "5"
+    }
+  ],
+  "hanging_light": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY HANGING",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "hanging_light"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "hanging_light"
+    }
+  ],
+  "ceiling_light": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "ceiling_light"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "ceiling_light"
+    }
+  ],
+  "Chandelier": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "Chandelier"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "Chandelier"
+    }
+  ],
+  "floor_lamp": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "floor_lamp"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "floor_lamp"
+    }
+  ],
+  "mirror_light": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "mirror_light"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "mirror_light"
+    }
+  ],
+  "outdoor_light": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "outdoor_light"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "outdoor_light"
+    }
+  ],
+  "table_lamp": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "table_lamp"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "table_lamp"
+    }
+  ],
+  "wall_light": [
+    {
+      "id": "1",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "59,000",
+      "image": "./src/assets/hanging_cart_1.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "2",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "128,000",
+      "image": "./src/assets/hanging_cart_2.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "3",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_3.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "4",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "25,000",
+      "image": "./src/assets/hanging_cart_4.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "5",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "48,000",
+      "image": "./src/assets/hanging_cart_5.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "6",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "75,000",
+      "image": "./src/assets/hanging_cart_6.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "7",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "88,000",
+      "image": "./src/assets/hanging_cart_7.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "8",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "52,000",
+      "image": "./src/assets/hanging_cart_8.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "9",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,500",
+      "image": "./src/assets/hanging_cart_9.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "10",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "8,200",
+      "image": "./src/assets/hanging_cart_10.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "11",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "32,000",
+      "image": "./src/assets/hanging_cart_11.png",
+      "category": "wall_light"
+    },
+    {
+      "id": "12",
+      "name": "AETHER LUNARIA MODERN LED COPPER GLASS LUXURY CHANDELIER",
+      "price": "24,000",
+      "image": "./src/assets/hanging_cart_12.png",
+      "category": "wall_light"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
