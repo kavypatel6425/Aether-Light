@@ -156,11 +156,10 @@ function Login() {
   }
 
   async function submit(prev, formData) {
-    const name = formData.get("name");
+    // const name = formData.get("name");
     const email = formData.get("email");
     const password = formData.get("password");
 
-    if (!name) return { error: "Enter Name" };
     if (!email) return { error: "Enter Email" };
     if (!password) return { error: "Enter Password" };
 
@@ -170,7 +169,6 @@ function Login() {
 
       const foundUser = users.find(
         (u) =>
-          u.name === name &&
           u.email === email &&
           u.password === password
       );
@@ -203,7 +201,6 @@ function Login() {
 
         <Form action={formAction}>
 
-          <Form.Control name="name" placeholder="Name" className="mb-2" />
           <Form.Control name="email" type="email" placeholder="Email" className="mb-2" />
           <Form.Control name="password" type="password" placeholder="Password" className="mb-2" />
 

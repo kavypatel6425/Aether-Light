@@ -198,9 +198,6 @@ import ProductPage from './ProductPage';
 
 import ProtectedRoute from './ProtectedRoute';
 import Checkout from './Checkout';
-import Users from './Project/Admin Penal/Users';
-import Products from './Project/Admin Penal/Products';
-import Orders from './Project/Admin Penal/Orders';
 import EditUser from './Project/Admin Penal/EditUser';
 
 function Router() {
@@ -227,17 +224,13 @@ function Router() {
 
         {/* Admin */}
         <Route path="/admin" element={<Admin />} />
-        <Route path="users" element={<Users />} />
-       {/* <Route path="edit-user/:id" element={<EditUser />} /> */}
-       <Route path="edit-user/:id" element={<EditUser />} />
-        <Route path="products" element={<Products />} />
-        <Route path="orders" element={<Orders />} />
+        {/* <Route path="edit-user/:id" element={<EditUser />} /> */}
+        <Route path="edit-user/:id" element={<EditUser />} />
 
 
 
         {/* <Route path="/editApi/:id" element={<Edit_Api />} /> */}
-        <Route path="/product/:category/:id" element={<ProductPage />} />
-        <Route path="/checkout/:category/:id" element={<Checkout />} />
+
       </Route>
 
     </Routes>
