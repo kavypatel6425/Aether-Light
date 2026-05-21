@@ -221,6 +221,9 @@ function Router() {
         <Route path="/outdoorlights" element={<Outdoor_lights />} />
         <Route path="/mirrorlights" element={<Mirror_lights />} />
         <Route path="/addcart" element={<Add_to_Cart />} />
+        <Route path="/product/:category/:id" element={<ProductPage />} />
+        <Route path="/checkout/:category/:id" element={<Checkout />} />
+
 
         {/* Admin */}
         <Route path="/admin" element={<Admin />} />
